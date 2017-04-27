@@ -24,7 +24,7 @@ public class CameraManager implements Camera.AutoFocusCallback, Camera.PreviewCa
 	private CameraState mState;
 	private PreviewFrameShotListener mFrameShotListener;
 
-	private static final int REQUEST_AUTO_FOCUS_INTERVAL_MS = 1500;
+	private static final int REQUEST_AUTO_FOCUS_INTERVAL_MS = 1000;
 	private static final int MESSAGE_REQUEST_AUTO_FOCUS = 0;
 
 	private Handler mHandler = new Handler() {
