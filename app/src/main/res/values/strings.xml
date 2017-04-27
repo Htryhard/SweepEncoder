@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">憨豆记</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Cart fragment</string>
+    <string name="ellipsis">\u2026</string>
+
+    <string name="select_album">选择相册</string>
+    <string name="select_image">选择图片</string>
+    <string name="latest_image">最近照片</string>
+    <string name="photo_album">相册</string>
+
+    <string name="main_confirm">确定</string>
+    <string name="main_cancel">取消</string>
+    <string name="main_back">返回</string>
+
+    <string name="capture_camera_failed">相机已被禁用</string>
+    <string name="capture_hint">Put the qrcode in frame</string>
+    <string name="capture_flash">闪光灯</string>
+    <string name="capture_back">返回</string>
+    <string name="capture_title">扫描二维码</string>
+    <string name="capture_album">从相册选</string>
+    <string name="capture_decode_failed">没有发现二维码</string>
+    <string name="capture_decode_result_title">扫描结果</string>
+    <string name="capture_decode_result_open">打开</string>
+    <string name="capture_decode_result_copy">复制</string>
+    <string name="capture_decode_result_copy_hint">已经复制!</string>
+</resources>
